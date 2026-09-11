@@ -1,7 +1,5 @@
 # AI Education for STEM and Non-STEM Students
 
-Virginia State University
-
 Supported by the State Council of Higher Education for Virginia (SCHEV)
 
 ## About This Course
